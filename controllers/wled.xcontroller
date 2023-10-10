@@ -57,6 +57,18 @@
             <Port7>25</Port7>
             <Port8>33</Port8>
         </Variant>
+        <Variant Name="WT32-ETH01 MJ3" Base="WLED:ESP32WLEDSettings">
+            <MaxPixelPort>8</MaxPixelPort>
+            <MaxSerialPort>0</MaxSerialPort>
+            <Port1>33</Port1>
+            <Port2>5</Port2>
+            <Port3>17</Port3>
+            <Port4>2</Port4>
+            <Port5>4</Port5>
+            <Port6>12</Port6>
+            <Port7>14</Port7>
+            <Port8>15</Port8>
+        </Variant>
     </Controller>
     <Controller Name="QuinLED-Dig-Octa">
         <Variant Name="" Base="WLED:ESP32WLEDSettings">
